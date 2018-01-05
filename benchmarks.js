@@ -15,7 +15,8 @@ enabledLibs = {
     preact: true,
     react: true,
     vue: true,
-    inferno: true
+    inferno: true,
+    nerv: true
 };
 
 enabledBenchmarks = {
